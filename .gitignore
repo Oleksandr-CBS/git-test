@@ -1,2 +1,6 @@
 my.txt
 my.html
+*.txt
+!abc.txt
+node_modules/
+exemp/*.ts

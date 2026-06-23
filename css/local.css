@@ -1,3 +1,12 @@
 body {
+<<<<<<< HEAD
     background-color: red;
 }
+=======
+    background-color: grey;
+}
+
+p {
+    font-size:20px;
+}
+>>>>>>> 8640355f46d033f7e13639afe508fa9d8babacaa
